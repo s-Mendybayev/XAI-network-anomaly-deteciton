@@ -1,1 +1,1 @@
-Use Final-Main2.jpynb to apply various AI explanation techniques
+Use XAI.jpynb to apply various AI explanation techniques
