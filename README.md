@@ -1,1 +1,1 @@
-Use XAI.jpynb to apply various AI explanation techniques
+Use XAI.ipynb to apply various AI explanation techniques
